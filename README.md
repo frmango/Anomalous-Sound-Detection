@@ -1,1 +1,2 @@
-# Anomalous-Sound-Detection
+# Anomalous Sound Detection
+## Algorithmic Machine Learning - Challenge 2
